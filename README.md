@@ -1,16 +1,30 @@
-## Hi there 👋
+# Nindar Consulting
 
-<!--
-**nindarconsulting/nindarconsulting** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Specialist cross-border recruitment for IT, AI, Web3, blockchain, and software talent.
 
-Here are some ideas to get you started:
+We help growing technology companies connect with vetted technical professionals across global markets.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What We Do
+
+- Specialist Talent Recruitment
+- Executive Search
+- Recruitment Process Outsourcing (RPO)
+- Talent Mapping & Market Intelligence
+
+## Areas We Recruit For
+
+- AI & Machine Learning
+- Web3 & Blockchain
+- Software Engineering
+- FinTech
+- Product & Technical Leadership
+
+## Cross-Border Hiring
+
+We support technology companies hiring across international markets, including Asia, Europe, the Middle East, and the US.
+
+## Work With Nindar
+
+🌐 https://www.nindar.com/
+
+Helping technology companies build stronger teams through specialist recruitment.
