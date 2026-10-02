@@ -26,45 +26,23 @@ Nindar focuses on specialist recruitment across the full talent lifecycle for IT
 ---
 ## Areas We Recruit For
 
-### AI & Machine Learning
-- AI/ML Engineers
-- Data Scientists
-- LLM Engineers
-- MLOps Engineers
+**AI & Machine Learning**  
+AI/ML Engineers · Data Scientists · LLM Engineers · MLOps Engineers
 
-### Blockchain & Web3
-- Blockchain Engineers
-- Smart Contract Developers
-- Solidity Engineers
-- Web3 / DeFi Developers
+**Blockchain & Web3**  
+Blockchain Engineers · Smart Contract Developers · Solidity Engineers · Web3 / DeFi Developers
 
-### FinTech
-- Payments Engineers
-- Quant Developers
-- Core Banking Developers
-- Risk & Compliance
+**FinTech**  
+Payments Engineers · Quant Developers · Core Banking Developers · Risk & Compliance
 
-### Engineering
-- Frontend Engineers
-- Backend Engineers
-- DevOps & SRE
-- QA Engineers
-- Data Engineers
+**Engineering**  
+Frontend Engineers · Backend Engineers · DevOps/SRE · QA Engineers · Data Engineers
 
-### Product & Design
-- Product Managers
-- UX/UI Designers
-- Product Analysts
-- UX Researchers
+**Product & Design**  
+Product Managers · UX/UI Designers · Product Analysts · UX Researchers
 
-### Sales & Marketing
-- Account Executives
-- Growth Marketers
-- SDRs
-- Content Leads
-
-Nindar works across Web3, AI/ML, blockchain, SaaS, FinTech, and DeFi talent markets. 
----
+**Sales & Marketing**  
+Account Executives · SDRs · Growth Marketers · Content Leads
 
 ## Cross-Border Talent Reach
 
