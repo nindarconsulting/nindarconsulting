@@ -24,39 +24,6 @@ We help growing technology companies connect with vetted engineering, AI, blockc
 Nindar focuses on specialist recruitment across the full talent lifecycle for IT, AI, and Web3 companies. 
 
 ---
-
-## Why Nindar
-
-- **48-hour vetted shortlist** for most roles
-- **15–20% success-based placement fee**
-- **90-day placement guarantee**
-- Specialist focus across **IT, AI & Web3**
-- Cross-border talent hubs in **China, Vietnam & Europe**
-- Structured technical screening
-- People-first candidate and client experience
-
-Every candidate is screened before introduction, with Nindar combining technical assessment, reference checks, and structured interviews. 
-
----
-
-## How We Work
-
-1. **Discovery & Kickoff**  
-   Understand the company, role, must-have skills, timeline, scope, and terms.
-
-2. **Requirement & Talent Mapping**  
-   Translate the brief into a targeted search plan across Nindar's talent hubs.
-
-3. **Recruitment & Shortlist**  
-   Deliver a curated shortlist of vetted candidates.
-
-4. **Placement & Guarantee**  
-   Support interviews and hiring, with permanent placements backed by a 90-day replacement guarantee.
-
-5. **Invoice & Account Management**  
-   Success-based invoicing on placement with ongoing account support. 
----
-
 ## Areas We Recruit For
 
 ### AI & Machine Learning
@@ -114,7 +81,7 @@ Nindar works across Web3, AI/ML, blockchain, SaaS, FinTech, and DeFi talent mark
 - Europe
 - United States
 - Brazil
-- Canada 
+- Canada
 
 ---
 
@@ -131,23 +98,46 @@ Nindar supports companies making their first key hires as well as teams scaling 
 
 ---
 
-## Services
+## How We Work
 
-### Talent Recruitment
-Success-based hiring for specialist IT, AI, and Web3 roles.
+1. **Discovery & Kickoff**  
+   Understand the company, role, must-have skills, timeline, scope, and terms.
 
-### Executive Search
-Retained search for senior and leadership positions including CTOs, VPs, and founding engineers.
+2. **Requirement & Talent Mapping**  
+   Translate the brief into a targeted search plan across Nindar's talent hubs.
 
-### Recruitment Process Outsourcing
-Embedded recruitment support that can own the hiring funnel end to end.
+3. **Recruitment & Shortlist**  
+   Deliver a curated shortlist of vetted candidates.
 
-### Talent Mapping & Market Intelligence
-Competitor mapping, talent availability, compensation benchmarks, and hiring-market insights.
+4. **Placement & Guarantee**  
+   Support interviews and hiring, with permanent placements backed by a 90-day replacement guarantee.
 
-### Additional Solutions
-- Employer Branding
-- Staff Augmentation 
+5. **Invoice & Account Management**  
+   Success-based invoicing on placement with ongoing account support.
+   
+---
+  
+## Why Nindar
+
+- **48-hour vetted shortlist** for most roles
+- **15–20% success-based placement fee**
+- **90-day placement guarantee**
+- Specialist focus across **IT, AI & Web3**
+- Cross-border talent hubs in **China, Vietnam & Europe**
+- Structured technical screening
+- People-first candidate and client experience
+
+Every candidate is screened before introduction, with Nindar combining technical assessment, reference checks, and structured interviews. 
+
+---
+
+## Meet the Founder & CEO
+
+<img width="641" height="378" alt="image" src="https://github.com/user-attachments/assets/912c039d-d526-4ebb-a7b7-9ba7d8a17abc" />
+
+**Jenny Nguyen** is the Founder & CEO of Nindar Consulting, leading the company’s work in specialist technology recruitment and cross-border hiring.
+
+Her focus includes talent strategy, executive search, and helping technology companies build strong engineering and leadership teams across global markets.
 
 ---
 
