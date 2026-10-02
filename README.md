@@ -26,23 +26,72 @@ Nindar focuses on specialist recruitment across the full talent lifecycle for IT
 ---
 ## Areas We Recruit For
 
-**AI & Machine Learning**  
-AI/ML Engineers · Data Scientists · LLM Engineers · MLOps Engineers
+<table>
+<tr>
+<td width="33%" valign="top">
 
-**Blockchain & Web3**  
-Blockchain Engineers · Smart Contract Developers · Solidity Engineers · Web3 / DeFi Developers
+### AI & Machine Learning
+AI/ML Engineers  
+Data Scientists  
+LLM Engineers  
+MLOps Engineers
 
-**FinTech**  
-Payments Engineers · Quant Developers · Core Banking Developers · Risk & Compliance
+</td>
 
-**Engineering**  
-Frontend Engineers · Backend Engineers · DevOps/SRE · QA Engineers · Data Engineers
+<td width="33%" valign="top">
 
-**Product & Design**  
-Product Managers · UX/UI Designers · Product Analysts · UX Researchers
+### Blockchain & Web3
+Blockchain Engineers  
+Smart Contract Developers  
+Solidity Engineers  
+Web3 / DeFi Developers
 
-**Sales & Marketing**  
-Account Executives · SDRs · Growth Marketers · Content Leads
+</td>
+
+<td width="33%" valign="top">
+
+### FinTech
+Payments Engineers  
+Quant Developers  
+Core Banking Developers  
+Risk & Compliance
+
+</td>
+</tr>
+
+<tr>
+<td width="33%" valign="top">
+
+### Engineering
+Frontend Engineers  
+Backend Engineers  
+DevOps / SRE  
+QA Engineers  
+Data Engineers
+
+</td>
+
+<td width="33%" valign="top">
+
+### Product & Design
+Product Managers  
+UX/UI Designers  
+Product Analysts  
+UX Researchers
+
+</td>
+
+<td width="33%" valign="top">
+
+### Sales & Marketing
+Account Executives  
+SDRs  
+Growth Marketers  
+Content Leads
+
+</td>
+</tr>
+</table>
 
 ## Cross-Border Talent Reach
 
