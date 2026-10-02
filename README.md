@@ -1,3 +1,5 @@
+
+
 # Nindar Consulting
 
 [![Website](https://img.shields.io/badge/Website-nindar.com-ff8a00?style=for-the-badge)](https://www.nindar.com/)
